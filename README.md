@@ -6,7 +6,7 @@
 
   <br />
   
-  https://simple-calculator-git-main-raguls-projects-ee1ba161.vercel.app/
+  https://simple-calculator-ten-zeta.vercel.app/
   
 </details>
 
