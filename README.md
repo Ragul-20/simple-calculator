@@ -11,4 +11,3 @@
   https://simple-calculator-ten-zeta.vercel.app/
   
 </details>
-
